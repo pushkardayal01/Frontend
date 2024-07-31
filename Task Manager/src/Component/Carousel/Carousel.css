@@ -1,0 +1,6 @@
+.carousel-card {
+    width: 18rem;
+    background: linear-gradient(177.23deg, #9C2CF3 -13.49%, #3A49F9 109.75%);
+    color: white; /* Ensure text is visible on the gradient background */
+  }
+  
