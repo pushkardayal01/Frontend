@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between; /* Distributes space between items */
+    align-items: center; /* Aligns items vertically in the center */
+    padding: 0 5px; /* Optional: add padding for spacing from the edges */
+    background-color: #f0f0f0; /* Optional: background color for visibility */
+    height: 60px; /* Optional: set a fixed height for the navbar */
+    position: relative; /* Position relative to use absolute positioning of inner elements */
+  }
+  
+  .left {
+    position: absolute;
+    left: 5px; /* 5px from the left edge of the navbar */
+  }
+  
+  .right {
+    position: absolute;
+    right: 5px; /* 5px from the right edge of the navbar */
+  }
+  

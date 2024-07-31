@@ -1,0 +1,16 @@
+.footer {
+    /* Add styles for the footer container */
+  }
+  
+  .box {
+    display: flex;
+    justify-content: space-around; /* Adjust spacing between buttons */
+    align-items: center; /* Vertically center buttons if needed */
+  }
+  
+  .btn {
+    background: transparent; /* Or any background style you prefer */
+    border: none; /* Removes default button border */
+    cursor: pointer; /* Makes the button clickable */
+  }
+  

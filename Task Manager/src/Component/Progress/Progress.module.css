@@ -1,0 +1,30 @@
+.progress{
+    width: 80%;
+}
+
+.title{
+
+}
+
+.box{
+    width: 90%;
+    margin: 10px;
+    border: 1px Solid beige;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+
+.left{
+    width: 20%;
+}
+
+.right{
+    width: 78%;
+}
+
+.title{
+
+}
